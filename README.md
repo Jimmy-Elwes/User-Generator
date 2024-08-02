@@ -47,7 +47,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or suggestions, please contact me at https://www.linkedin.com/in/jimmy-elwes/.
+For any questions or suggestions, please contact me at [jimmy elwes](https://www.linkedin.com/in/jimmy-elwes/).
 
 Happy User Generating! 🚀
 
